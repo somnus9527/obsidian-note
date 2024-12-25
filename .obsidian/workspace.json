@@ -73,8 +73,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,7 +174,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e6cbd34e53660973",
+  "active": "c2f8e16b1702d25c",
   "lastOpenFiles": [
     "工作笔记/鼎捷/12.23-12.27工作小记.md",
     "知识笔记/Obsidian/Obsidian目前使用到的插件.md",
