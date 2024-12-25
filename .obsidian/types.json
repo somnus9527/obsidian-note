@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "的撒": "checkbox",
+    "done": "checkbox",
+    "创建日期": "datetime",
+    "更新日期": "datetime"
+  }
+}

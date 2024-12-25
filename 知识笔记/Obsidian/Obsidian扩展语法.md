@@ -1,4 +1,4 @@
-#知识笔记/Obsidian/语法 
+#知识笔记/Obsidian
 > [!Info]
 > 除Markdown语法外，Obsidian还支持自己的一些扩展语法，以下只记录Obsidian扩展语法
 
