@@ -11,10 +11,15 @@
             "id": "f408f594bbcef3a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "工作笔记/鼎捷/12.23-12.27工作小记.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "12.23-12.27工作小记"
             }
           }
         ]
@@ -134,9 +139,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "工作笔记/鼎捷/12.23-12.27工作小记.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "12.23-12.27工作小记 的大纲"
             }
           },
           {
