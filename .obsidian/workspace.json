@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "代办事项/lowcode加载优化代办.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lowcode加载优化代办"
+              "title": "README"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "代办事项/lowcode加载优化代办.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "lowcode加载优化代办 的反向链接列表"
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "代办事项/lowcode加载优化代办.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "lowcode加载优化代办 的出链列表"
+              "title": "README 的出链列表"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "代办事项/lowcode加载优化代办.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "lowcode加载优化代办 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,9 +176,9 @@
   },
   "active": "df8a7abe4acef2f4",
   "lastOpenFiles": [
+    "代办事项/lowcode加载优化代办.md",
     "工作笔记/鼎捷/12.23-12.27工作小记.md",
     "知识笔记/Obsidian/Obsidian扩展语法.md",
-    "代办事项/lowcode加载优化代办.md",
     "README.md"
   ]
 }
