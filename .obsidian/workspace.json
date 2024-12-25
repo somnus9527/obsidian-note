@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "ad231275e522b9ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec6c3e3830bc1af3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df8a7abe4acef2f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "代办事项/lowcode加载优化代办.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lowcode加载优化代办"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a48dd56b3b10416",
+    "type": "split",
+    "children": [
+      {
+        "id": "f32e94d0f9cfab1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2f8e16b1702d25c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "c83bb20e2134b1d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f782299810b9693b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "94502b477c594c1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "59d8f1710a28d693",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfa2c2c7c8182743",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "代办事项/lowcode加载优化代办.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "lowcode加载优化代办 的反向链接列表"
+            }
+          },
+          {
+            "id": "2b9c9bbf02911153",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "代办事项/lowcode加载优化代办.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "lowcode加载优化代办 的出链列表"
+            }
+          },
+          {
+            "id": "4a522ad0f8bf46cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "eae249fec331ebfe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "代办事项/lowcode加载优化代办.md"
+              },
+              "icon": "lucide-list",
+              "title": "lowcode加载优化代办 的大纲"
+            }
+          },
+          {
+            "id": "e6cbd34e53660973",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "df8a7abe4acef2f4",
+  "lastOpenFiles": [
+    "工作笔记/鼎捷/12.23-12.27工作小记.md",
+    "知识笔记/Obsidian/Obsidian扩展语法.md",
+    "代办事项/lowcode加载优化代办.md",
+    "README.md"
+  ]
+}
