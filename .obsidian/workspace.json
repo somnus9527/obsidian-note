@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#工作笔记",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作笔记/鼎捷/12.23-12.27工作小记.md"
+                "file": "待办事项/lowcode加载优化待办.md"
               },
               "icon": "lucide-list",
-              "title": "12.23-12.27工作小记 的大纲"
+              "title": "lowcode加载优化待办 的大纲"
             }
           },
           {
@@ -174,15 +175,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6db81a60a607235b",
+  "active": "e6cbd34e53660973",
   "lastOpenFiles": [
     "工作笔记/鼎捷/12.23-12.27工作小记.md",
-    "模板/date-template.md.md",
-    "工作笔记/鼎捷/未命名.md",
     "知识笔记/Obsidian/Obsidian目前使用到的插件.md",
-    "模板",
     "知识笔记/Obsidian/Obsidian扩展语法.md",
+    "模板/date-template.md.md",
+    "模板/tags.md.md",
     "待办事项/lowcode加载优化待办.md",
+    "工作笔记/鼎捷/未命名.md",
+    "模板",
     "README.md"
   ]
 }
