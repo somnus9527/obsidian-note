@@ -183,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -200,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66c7f4f74324f86c",
+  "active": "e6cbd34e53660973",
   "lastOpenFiles": [
     "知识笔记/基础知识/JS Event Loop.md",
     "Assets/Pasted image 20241231190746.png",
