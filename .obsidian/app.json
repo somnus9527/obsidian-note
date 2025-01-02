@@ -1,3 +1,9 @@
 {
-  "showLineNumber": true
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "newFileFolderPath": "Inbox",
+  "attachmentFolderPath": "Assets",
+  "promptDelete": false
 }

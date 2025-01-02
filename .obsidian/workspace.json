@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f0b63b27f55fd11a",
+        "id": "5a16a3f232467184",
         "type": "tabs",
         "children": [
           {
-            "id": "f408f594bbcef3a4",
+            "id": "66c7f4f74324f86c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作笔记/鼎捷/12.23-12.27工作小记.md",
+                "file": "工作笔记/鼎捷/12.30-1.3工作小记.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.23-12.27工作小记"
+              "title": "12.30-1.3工作小记"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#工作笔记",
+                "query": "tag:#119434bug排查",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 340.5
   },
   "right": {
     "id": "94502b477c594c1d",
@@ -155,9 +155,35 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "0af6c4b10297e6fe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "2b8c340fd471b9a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "工作笔记/鼎捷/代码管理方案记录.md"
+              },
+              "icon": "lucide-info",
+              "title": "代码管理方案记录的笔记属性"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -171,20 +197,55 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f408f594bbcef3a4",
+  "active": "66c7f4f74324f86c",
   "lastOpenFiles": [
-    "工作笔记/鼎捷/12.23-12.27工作小记.md",
+    "知识笔记/基础知识/JS Event Loop.md",
+    "Assets/Pasted image 20241231190746.png",
+    "Assets/browser-excute-animate.gif",
+    "Assets/node-excute-animate.gif",
+    "Assets/Pasted image 20241231185746.png",
+    "Assets/Pasted image 20241231185718.png",
+    "Assets/Pasted image 20241231185636.png",
+    "知识笔记/数据结构/队列.md",
+    "知识笔记/数据结构/二叉树.md",
+    "知识笔记/数据结构/链表.md",
+    "知识笔记/数据结构/堆.md",
+    "知识笔记/数据结构/二叉查找树(Binary Search Tree, BST).md",
+    "Assets/Pasted image 20241231185047.png",
+    "Assets/Pasted image 20241231185036.png",
+    "知识笔记/数据结构/红黑树.md",
+    "知识笔记/数据结构/AVL树.md",
+    "知识笔记/数据结构/栈.md",
+    "知识笔记/数据结构/数组.md",
+    "知识笔记/电脑相关/关于NPM，PIP网络异常.md",
+    "知识笔记/数据结构",
+    "知识笔记/Vim/neovim打开配置文件.md",
+    "知识笔记/Vim/fzf-lua.nvim搜索报错.md",
+    "知识笔记/Git/开启代理造成的命令行访问github等外网问题.md",
+    "知识笔记/Vim/未命名",
+    "知识笔记/Vim/Neovim Event.md",
+    "知识笔记/Vim/Neovim 卡顿处理.md",
+    "知识笔记/电脑相关/PowerShell升级.md",
+    "知识笔记/前端框架/flutter 多环境APK共存实践记录.md",
+    "知识笔记/通用笔记/rollup开发私有npm包全记录.md",
+    "知识笔记/通用笔记/agInnerLabel开发小记.md",
+    "知识笔记/Vim/Neovim 配置记录.md",
+    "知识笔记/电脑相关/Mac 处理Option会输入特殊字符.md",
+    "随手记/ChatGPT API Key.md",
+    "知识笔记/前端框架/React18 Remount 的问题记录.md",
     "知识笔记/Obsidian/Obsidian扩展语法.md",
-    "知识笔记/Obsidian/Obsidian目前使用到的插件.md",
-    "待办事项/lowcode加载优化待办.md",
-    "模板/date-template.md.md",
-    "模板/tags.md.md",
-    "工作笔记/鼎捷/未命名.md",
-    "模板",
-    "README.md"
+    "知识笔记/前端框架",
+    "知识笔记/CSS",
+    "Assets/Pasted image 20241231170540.png",
+    "知识笔记/基础知识",
+    "Assets/Pasted image 20241231161447.png",
+    "知识笔记/通用笔记",
+    "知识笔记/Vim",
+    "知识笔记/Git",
+    "知识笔记/Nginx",
+    "知识笔记/电脑相关"
   ]
 }
