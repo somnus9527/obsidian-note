@@ -1,6 +1,6 @@
 ---
 tags:
-  - 知识笔记
+  - 知识笔记/经验
 ---
 >[!Tip] 
 >1. 本地开发使用npm link 联调时，由于link会将本地library整个项目链接到全局node_modules中，那么在app中npm link package-name之后，一旦library跟app同时使用一个依赖，则会报错Duplicate dependencies.这时需要在使用library的app中通过npm link appPath/to/libraryPath/node_modules/module_name。比如library和app在同一个文件夹中，并且同级，且假如library中peerDependencies依赖了react，app应用项目中也依赖react，那么就需要在app目录中执行：npm link ../libraryName/node_modules/react；可以消除报错。
