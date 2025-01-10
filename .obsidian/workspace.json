@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作笔记/鼎捷/5.6-5.11工作小记.md",
+                "file": "工作笔记/鼎捷/1.6-1.10工作小记.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.6-5.11工作小记"
+              "title": "1.6-1.10工作小记"
             }
           }
         ]
@@ -187,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,8 +202,17 @@
   },
   "active": "66c7f4f74324f86c",
   "lastOpenFiles": [
-    "工作笔记/鼎捷/5.13-5.17工作小记.md",
+    "工作笔记/鼎捷/3.15-3.22工作小记.md",
+    "工作笔记/归档",
+    "工作笔记/鼎捷/3.25-3.29工作小记.md",
+    "Assets/Pasted image 20250110145621.png",
+    "工作笔记/鼎捷/4.1-4.3工作小记.md",
+    "工作笔记/鼎捷/4.7-4.12工作小记.md",
+    "工作笔记/鼎捷/4.15-4.19工作小记.md",
+    "工作笔记/鼎捷/4.22-4.26工作小记.md",
+    "工作笔记/鼎捷/4.28-4.30工作小记.md",
     "工作笔记/鼎捷/5.6-5.11工作小记.md",
+    "工作笔记/鼎捷/5.13-5.17工作小记.md",
     "工作笔记/鼎捷/5.20-5.24工作小记.md",
     "工作笔记/鼎捷/5.27-5.31工作小记.md",
     "工作笔记/鼎捷/1.6-1.10工作小记.md",
@@ -221,15 +229,7 @@
     "知识笔记/Godot/Vector2探索.md",
     "知识笔记/Godot/Godot编辑器细节点记录.md",
     "知识笔记/Godot/Godot小技巧记录.md",
-    "知识笔记/前端框架/angular.json配置说明.md",
     "知识笔记/Godot",
-    "知识笔记/经验/ts-node 执行ts文件.md",
-    "知识笔记/经验/npmrc统一处理代理.md",
-    "知识笔记/电脑相关/npm安装报错RequestError.md",
-    "知识笔记/经验/VSCode debug Rust.md",
-    "知识笔记/经验/IOS input框disabled状态颜色值使用rgba不生效.md",
-    "知识笔记/经验/agInnerLabel开发小记.md",
-    "知识笔记/经验/vscode私有插件仓库调研.md",
     "Assets/Pasted image 20250110131633.png",
     "Assets/Pasted image 20250110130757.png",
     "Assets/Pasted image 20250110130752.png",
@@ -240,14 +240,12 @@
     "Assets/Pasted image 20241231185746.png",
     "Assets/Pasted image 20241231185718.png",
     "Assets/Pasted image 20241231185636.png",
-    "Assets/Pasted image 20241231185047.png",
     "知识笔记/数据结构",
     "知识笔记/Vim/未命名",
     "知识笔记/前端框架",
     "知识笔记/CSS",
     "知识笔记/基础知识",
     "知识笔记/通用笔记",
-    "知识笔记/Vim",
-    "知识笔记/Git"
+    "知识笔记/Vim"
   ]
 }
