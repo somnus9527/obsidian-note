@@ -187,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,6 +205,7 @@
   "lastOpenFiles": [
     "工作笔记/鼎捷/1.6-1.10工作小记.md",
     "工作笔记/鼎捷/1.13-1.17工作小记.md",
+    "知识笔记/经验/typescript enum.md",
     "工作笔记/归档/鼎捷-工作小记-2024/4.7-4.12工作小记.md",
     "工作笔记/归档/鼎捷-工作小记-2024/3.15-3.22工作小记.md",
     "待办事项/adInnerLable问题.md",
@@ -230,7 +232,6 @@
     "知识笔记/电脑相关/ssh-keygen.md",
     "知识笔记/电脑相关/powershell美化.md",
     "知识笔记/电脑相关/powershell设置环境变量.md",
-    "知识笔记/电脑相关/powershell设置永久代理(Windows).md",
     "知识笔记/Godot",
     "Assets/Pasted image 20250110131633.png",
     "Assets/Pasted image 20250110130757.png",
