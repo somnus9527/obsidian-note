@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作笔记/鼎捷/1.13-1.17工作小记.md",
+                "file": "知识笔记/基础知识/JS深拷贝.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "1.13-1.17工作小记"
+              "title": "JS深拷贝"
             }
           }
         ]
@@ -41,7 +50,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -187,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,17 +210,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66c7f4f74324f86c",
+  "active": "c2f8e16b1702d25c",
   "lastOpenFiles": [
+    "生活记",
+    "知识笔记/电脑相关/Mac Vscode 不能长按输入.md",
+    "知识笔记/电脑相关/cargo 下载慢.md",
+    "工作笔记/鼎捷/主应用package.json分析记录.md",
+    "工作笔记/归档/鼎捷-工作小记-2024/3.15-3.22工作小记.md",
+    "知识笔记/电脑相关/MacOS查看本机IP.md",
+    "随手记/ChatGPT API Key.md",
+    "工作笔记/鼎捷/1.20-1.22工作小记.md",
+    "工作笔记/鼎捷/1.13-1.17工作小记.md",
     "工作笔记/鼎捷/1.6-1.10工作小记.md",
     "知识笔记/前端框架/angular编辑ngcc命令.md",
     "知识笔记/前端框架/angular.json配置说明.md",
     "知识笔记/基础知识/script defer & async.md",
     "工作笔记/归档/鼎捷-工作小记-2024/5.20-5.24工作小记.md",
-    "工作笔记/鼎捷/1.13-1.17工作小记.md",
     "知识笔记/经验/typescript enum.md",
     "工作笔记/归档/鼎捷-工作小记-2024/4.7-4.12工作小记.md",
-    "工作笔记/归档/鼎捷-工作小记-2024/3.15-3.22工作小记.md",
     "待办事项/adInnerLable问题.md",
     "待办事项/lowcode加载优化待办.md",
     "工作笔记/归档/鼎捷-工作小记-2024",
@@ -225,13 +241,6 @@
     "工作笔记/归档/鼎捷-工作小记-2024/4.22-4.26工作小记.md",
     "工作笔记/归档/鼎捷-工作小记-2024/4.28-4.30工作小记.md",
     "工作笔记/归档/鼎捷-工作小记-2024/5.6-5.11工作小记.md",
-    "工作笔记/归档/鼎捷-工作小记-2024/5.13-5.17工作小记.md",
-    "工作笔记/归档/鼎捷-工作小记-2024/5.27-5.31工作小记.md",
-    "工作笔记/归档/鼎捷-工作小记-2024/7.1-7.5工作小记.md",
-    "知识笔记/电脑相关/flutter如果刚初始化的项目都启动失败.md",
-    "知识笔记/基础知识/JS类型.md",
-    "知识笔记/基础知识/JS对象的创建.md",
-    "知识笔记/基础知识/JS深拷贝.md",
     "知识笔记/Godot",
     "Assets/Pasted image 20250110131633.png",
     "Assets/Pasted image 20250110130757.png",
