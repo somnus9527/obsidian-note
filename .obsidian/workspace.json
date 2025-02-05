@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识笔记/基础知识/JS深拷贝.md",
+                "file": "生活记/综合笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": false,
+                  "collapseAll": true,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "JS深拷贝"
+              "title": "综合笔记"
             }
           }
         ]
@@ -210,8 +210,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2f8e16b1702d25c",
+  "active": "66c7f4f74324f86c",
   "lastOpenFiles": [
+    "知识笔记/基础知识/JS深拷贝.md",
+    "生活记/综合笔记.md",
     "生活记",
     "知识笔记/电脑相关/Mac Vscode 不能长按输入.md",
     "知识笔记/电脑相关/cargo 下载慢.md",
@@ -240,7 +242,6 @@
     "工作笔记/归档/鼎捷-工作小记-2024/4.15-4.19工作小记.md",
     "工作笔记/归档/鼎捷-工作小记-2024/4.22-4.26工作小记.md",
     "工作笔记/归档/鼎捷-工作小记-2024/4.28-4.30工作小记.md",
-    "工作笔记/归档/鼎捷-工作小记-2024/5.6-5.11工作小记.md",
     "知识笔记/Godot",
     "Assets/Pasted image 20250110131633.png",
     "Assets/Pasted image 20250110130757.png",
@@ -256,7 +257,6 @@
     "知识笔记/Vim/未命名",
     "知识笔记/前端框架",
     "知识笔记/CSS",
-    "知识笔记/基础知识",
-    "知识笔记/通用笔记"
+    "知识笔记/基础知识"
   ]
 }
