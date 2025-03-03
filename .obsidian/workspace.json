@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a4f761d9486b6478",
+        "id": "b0cfc387ac0565b6",
         "type": "tabs",
         "children": [
           {
-            "id": "9b7eb22267f5feee",
+            "id": "7f8c41a0844e6fc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -210,10 +210,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b7eb22267f5feee",
+  "active": "7f8c41a0844e6fc1",
   "lastOpenFiles": [
-    "工作笔记/鼎捷/2.24-2.28工作小记.md",
+    "知识笔记/电脑相关/npm安装报错RequestError.md",
+    "工作笔记/归档/鼎捷-工作小记-2024/4.1-4.3工作小记.md",
+    "工作笔记/工作笔记概览.md",
+    "工作笔记/归档/鼎捷-工作小记-2024/3.15-3.22工作小记.md",
+    "README.md",
     "工作笔记/鼎捷/3.3-3.7工作小记.md",
+    "未命名.canvas",
+    "知识笔记/经验/typescript enum.md",
+    "工作笔记/鼎捷/2.24-2.28工作小记.md",
     "工作笔记/鼎捷/2.17-2.21工作小记.md",
     "工作笔记/鼎捷/2.10-2.14工作小记.md",
     "工作笔记/鼎捷/1.20-1.22工作小记.md",
@@ -227,18 +234,12 @@
     "知识笔记/电脑相关/Mac Vscode 不能长按输入.md",
     "知识笔记/电脑相关/cargo 下载慢.md",
     "工作笔记/鼎捷/主应用package.json分析记录.md",
-    "工作笔记/归档/鼎捷-工作小记-2024/3.15-3.22工作小记.md",
     "知识笔记/电脑相关/MacOS查看本机IP.md",
     "随手记/ChatGPT API Key.md",
     "工作笔记/鼎捷/1.6-1.10工作小记.md",
     "知识笔记/前端框架/angular编辑ngcc命令.md",
     "知识笔记/前端框架/angular.json配置说明.md",
     "知识笔记/基础知识/script defer & async.md",
-    "工作笔记/归档/鼎捷-工作小记-2024/5.20-5.24工作小记.md",
-    "知识笔记/经验/typescript enum.md",
-    "工作笔记/归档/鼎捷-工作小记-2024/4.7-4.12工作小记.md",
-    "待办事项/adInnerLable问题.md",
-    "待办事项/lowcode加载优化待办.md",
     "工作笔记/归档/鼎捷-工作小记-2024",
     "工作笔记/归档",
     "Assets/Pasted image 20250110145621.png",
