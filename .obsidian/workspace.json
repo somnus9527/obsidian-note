@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "66265a21c2d8f405",
+        "id": "a4f761d9486b6478",
         "type": "tabs",
         "children": [
           {
-            "id": "8193bd0f0d037ab5",
+            "id": "9b7eb22267f5feee",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "工作笔记/鼎捷/3.3-3.7工作小记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "3.3-3.7工作小记"
             }
           }
         ]
@@ -196,9 +210,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2f8e16b1702d25c",
+  "active": "9b7eb22267f5feee",
   "lastOpenFiles": [
     "工作笔记/鼎捷/2.24-2.28工作小记.md",
+    "工作笔记/鼎捷/3.3-3.7工作小记.md",
     "工作笔记/鼎捷/2.17-2.21工作小记.md",
     "工作笔记/鼎捷/2.10-2.14工作小记.md",
     "工作笔记/鼎捷/1.20-1.22工作小记.md",
@@ -225,7 +240,6 @@
     "待办事项/adInnerLable问题.md",
     "待办事项/lowcode加载优化待办.md",
     "工作笔记/归档/鼎捷-工作小记-2024",
-    "工作笔记/归档/鼎捷-工作小记-2024/11.4-11.8工作小记.md",
     "工作笔记/归档",
     "Assets/Pasted image 20250110145621.png",
     "知识笔记/Godot",
