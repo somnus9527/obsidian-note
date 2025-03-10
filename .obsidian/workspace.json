@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作笔记/鼎捷/3.3-3.7工作小记.md",
+                "file": "工作笔记/鼎捷/3.10-3.14工作小记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3.3-3.7工作小记"
+              "title": "3.10-3.14工作小记"
             }
           }
         ]
@@ -212,12 +212,15 @@
   },
   "active": "7f8c41a0844e6fc1",
   "lastOpenFiles": [
+    "工作笔记/鼎捷/3.3-3.7工作小记.md",
+    "工作笔记/鼎捷/3.10-3.14工作小记.md",
+    "工作笔记/鼎捷/operation中部分核心字段逻辑记录.md",
+    "知识笔记/电脑相关/安装ffi.md",
     "待办事项/neovim配置优化.md",
     "待办事项/lowcode加载优化待办.md",
     "生活记/综合笔记.md",
     "待办事项/lowcode SubmitAction历史数据转换方法.md",
     "待办事项/adInnerLable问题.md",
-    "工作笔记/鼎捷/3.3-3.7工作小记.md",
     "工作笔记/鼎捷/2.24-2.28工作小记.md",
     "知识笔记/电脑相关/npm安装报错RequestError.md",
     "工作笔记/归档/鼎捷-工作小记-2024/4.1-4.3工作小记.md",
@@ -237,9 +240,6 @@
     "生活记",
     "知识笔记/电脑相关/Mac Vscode 不能长按输入.md",
     "知识笔记/电脑相关/cargo 下载慢.md",
-    "工作笔记/鼎捷/主应用package.json分析记录.md",
-    "知识笔记/电脑相关/MacOS查看本机IP.md",
-    "随手记/ChatGPT API Key.md",
     "工作笔记/归档/鼎捷-工作小记-2024",
     "工作笔记/归档",
     "Assets/Pasted image 20250110145621.png",
