@@ -16,4 +16,3 @@ tags:
 >- applyToField：所在列的字段的schema
 >另：如何判断这个operation是不是开窗
 >`['openwindow', 'open-task-window'].includes(operate)`
-
