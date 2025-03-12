@@ -8,7 +8,7 @@ tags:
 >[!Note] applyToField
 >1. mode === 'all', applyToField为空 (可以手动选择字段)
 >2. mode === 'row'
->	- pageCode === 'browse-page'则applyToField=BUTTON_GROUP
+>	- pageCode === 'browse-page' || 'basic-data' 则applyToField=BUTTON_GROUP
 >	- pageCode === 'edit-page'则applyToField=UIBOT_BUTTON_GROUP
 
 >[!Note] 开窗
