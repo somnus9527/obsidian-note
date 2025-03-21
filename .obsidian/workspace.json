@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作笔记/鼎捷/代码管理方案记录.md",
+                "file": "知识笔记/经验/Appsmith调研记录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "代码管理方案记录"
+              "title": "Appsmith调研记录"
             }
           }
         ]
@@ -213,8 +213,8 @@
   "active": "7f8c41a0844e6fc1",
   "lastOpenFiles": [
     "工作笔记/鼎捷/3.17-3.21工作小记.md",
-    "知识笔记/经验/Appsmith调研记录.md",
     "工作笔记/鼎捷/代码管理方案记录.md",
+    "知识笔记/经验/Appsmith调研记录.md",
     "随手记/硅基流动API Key.md",
     "随手记/deepseek API Key.md",
     "随手记/ChatGPT API Key.md",
