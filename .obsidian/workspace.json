@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作笔记/鼎捷/3.24-3.28工作小记.md",
+                "file": "知识笔记/经验/ToolJet调研记录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3.24-3.28工作小记"
+              "title": "ToolJet调研记录"
             }
           }
         ]
@@ -212,9 +212,19 @@
   },
   "active": "730ca1c3a3a9200b",
   "lastOpenFiles": [
+    "知识笔记/经验/ts-node 执行ts文件.md",
     "知识笔记/经验/ToolJet调研记录.md",
-    "知识笔记/经验/Appsmith调研记录.md",
+    "Assets/Pasted image 20250328151221.png",
+    "Assets/Pasted image 20250328150537.png",
+    "Assets/Pasted image 20250328150447.png",
+    "Assets/Pasted image 20250328150430.png",
+    "Assets/Pasted image 20250328150049.png",
+    "Assets/Pasted image 20250328150037.png",
+    "Assets/Pasted image 20250328150010.png",
+    "知识笔记/经验/ToolJet调研记录_副本.md",
+    "知识笔记/电脑相关/MacOS查看本机IP.md",
     "工作笔记/鼎捷/3.24-3.28工作小记.md",
+    "知识笔记/经验/Appsmith调研记录.md",
     "知识笔记/电脑相关/安装node-gyp.md",
     "知识笔记/电脑相关/npm 设置config.md",
     "工作笔记/鼎捷/3.3-3.7工作小记.md",
@@ -228,26 +238,16 @@
     "Assets/Pasted image 20250321150446.png",
     "Assets/Pasted image 20250321173647.png",
     "Assets/Pasted image 20250321173128.png",
-    "Assets/Pasted image 20250321173109.png",
-    "Assets/Pasted image 20250321173027.png",
-    "Assets/Pasted image 20250321165759.png",
-    "Assets/Pasted image 20250321165739.png",
-    "Assets/Pasted image 20250321165713.png",
-    "Assets/Pasted image 20250321151610.png",
-    "Assets/Pasted image 20250321151112.png",
     "工作笔记/鼎捷/代码管理方案记录.md",
     "随手记/硅基流动API Key.md",
     "随手记/deepseek API Key.md",
     "随手记/ChatGPT API Key.md",
     "随手记/个人账号密码笔记本.md",
     "随手记/鼎捷账号密码笔记本.md",
-    "知识笔记/电脑相关/MacOS查看本机IP.md",
     "工作笔记/鼎捷/operation中部分核心字段逻辑记录.md",
     "知识笔记/电脑相关/安装ffi.md",
     "待办事项/neovim配置优化.md",
     "待办事项/lowcode加载优化待办.md",
-    "生活记/综合笔记.md",
-    "待办事项/lowcode SubmitAction历史数据转换方法.md",
     "未命名.canvas",
     "生活记",
     "工作笔记/归档/鼎捷-工作小记-2024",

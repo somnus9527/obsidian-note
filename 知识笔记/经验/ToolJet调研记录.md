@@ -86,17 +86,25 @@ tags:
 - ToolJet在创建queries时还支持js代码转换，也就是说我们可以在查询语句执行完成的结果之上进行数据的处理，很方便
 - ToolJet支持常量设置，这个常量可以在整个workspace内部通过上面的模版代码直接读取，放到组件中，这样的话对于各个版本的全局变量配置就是天然支持
 
-#### ToolJet缺点或者相对于AppSmith不够好的点
-- 虽然支持多平台，但是需要单独设计，也就是需要在PC和Mobile都进行一次设计，而不是直接通用
-
 #### 尝试创建自定义组件
 
 >自定义组件同样类似lowcode，分为json配置，以及画布渲染组件
 
+- 假如需要创建一个TestButton组件，需要做如下事情：
+	- 创建*frontend/src/Editor/WidgetManager/configs/testButton.js*
+	> 这个配置用于组件详细信息配置，更关注于组件属性和配置（setter）相关，类似lowcode meta.ts文件配置
+	- 创建*frontend/src/AppBuilder/WidgetManager/widgets/testButton.js*
+	> 这个配置用于画布左侧的Inspector中的components中的展示，主要关注**exposedVariables**，当用户打开组件时，具体在对应组件下展示什么属性，由这个配置控制，类似lowcode meta.ts文件配置![[Pasted image 20250328150010.png]]![[Pasted image 20250328150037.png]]![[Pasted image 20250328150049.png]]
+	- 创建*frontend/src/Editor/Components/TestButton.jsx*
+	> 这个是一个react组件，用于控制实际组件在画布中展示什么，类似lowcode的物料组件
+	- 创建*server/src/helpers/widget-config/testButton.js*
+	> 这是服务端的组件配置，用于服务端解析组件schema使用
+	- 最后再将上面的文件引入相应地方的index.js或者widgetConfig.js中即可
 
+#### PC和MOBILE的区分由配置控制，但是数据在同一份schema中：
+![[Pasted image 20250328150430.png]]![[Pasted image 20250328150447.png]]![[Pasted image 20250328150537.png]]![[Pasted image 20250328151221.png]]
 
 >[!ERROR] ToolJet有ce和ee两个版本
 >- ce为社区版
 >- ee为企业版（也就是收费）
 >- 那么ce版本会阉割多少功能，暂时未知
-
