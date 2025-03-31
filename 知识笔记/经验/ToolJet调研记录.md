@@ -104,6 +104,9 @@ tags:
 #### PC和MOBILE的区分由配置控制，但是数据在同一份schema中：
 ![[Pasted image 20250328150430.png]]![[Pasted image 20250328150447.png]]![[Pasted image 20250328150537.png]]![[Pasted image 20250328151221.png]]
 
+#### schema
+至于当前schema,需要自己手动处理，目前项目中经过debug发现整个画布当前的schema都存储在useAppData中，具体处理component数据的核心逻辑在componentSplice.js这个切片中（ToolJet前端项目的仓库使用的是zustand），流程就是各个组件通过回调最终走到上面提到的这个切片中，在这个切片中会处理所有的属性变更，最终刷新数据存储到store中![[Pasted image 20250328162320.png]]，核心代码就是这个setComponentProperty
+
 >[!ERROR] ToolJet有ce和ee两个版本
 >- ce为社区版
 >- ee为企业版（也就是收费）
