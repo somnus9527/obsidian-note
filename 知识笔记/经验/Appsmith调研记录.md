@@ -20,7 +20,7 @@ tags:
 >4. cd app/server *cd进目录*
 >5. cp ./envs/dev.env.example ./.env *复制一份环境变量到正式的.env配置*
 >> 具体参数主要需要修改**APPSMITH_DB_URL**
->6. vn clean compile *先清理之前的编译，主要是让maven安装依赖，顺便清理一下*
+>6. mvn clean compile *先清理之前的编译，主要是让maven安装依赖，顺便清理一下*
 >7. /build.sh -DskipTests *先编译，参数是跳过测试，目的是编译更快，理由是刚fork的代码不需要测试*
 >8. 启动mongo服务和redis服务不要忘了
 >9. /scripts/start-dev-server.sh *启动后端项目，dev模式*
