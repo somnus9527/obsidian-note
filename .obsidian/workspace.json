@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作笔记/鼎捷/4.7-4.11工作小记.md",
+                "file": "工作笔记/鼎捷/4.14-4.18工作小记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4.7-4.11工作小记"
+              "title": "4.14-4.18工作小记"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:知识笔记/前端框架",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 283.5
   },
   "right": {
     "id": "94502b477c594c1d",
@@ -197,7 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 211.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,8 +212,14 @@
   },
   "active": "730ca1c3a3a9200b",
   "lastOpenFiles": [
-    "工作笔记/鼎捷/3.31-4.3工作小记.md",
     "工作笔记/鼎捷/4.7-4.11工作小记.md",
+    "工作笔记/鼎捷/3.31-4.3工作小记.md",
+    "工作笔记/鼎捷/4.14-4.18工作小记.md",
+    "知识笔记/经验/lowcode-engine升级记录.md",
+    "工作笔记/鼎捷/operation各个场景可选表格.md",
+    "知识笔记/经验/ToolJet调研记录.md",
+    "知识笔记/经验/package.json版本说明.md",
+    "待办事项/adInnerLable问题.md",
     "工作笔记/鼎捷/3.3-3.7工作小记.md",
     "知识笔记/经验/Pageplug调研.md",
     "Assets/Obsidian-1.8.9.dmg",
@@ -222,7 +228,6 @@
     "知识笔记/经验/Appsmith调研记录.md",
     "知识笔记/经验/agInnerLabel开发小记.md",
     "工作笔记/鼎捷/3.24-3.28工作小记.md",
-    "知识笔记/经验/ToolJet调研记录.md",
     "Assets/Pasted image 20250328162320.png",
     "Assets/Pasted image 20250328150010.png",
     "知识笔记/经验/ts-node 执行ts文件.md",
@@ -244,11 +249,6 @@
     "工作笔记/鼎捷/1.20-1.22工作小记.md",
     "Assets/Pasted image 20250321150446.png",
     "Assets/Pasted image 20250321173647.png",
-    "工作笔记/鼎捷/代码管理方案记录.md",
-    "随手记/硅基流动API Key.md",
-    "随手记/deepseek API Key.md",
-    "随手记/ChatGPT API Key.md",
-    "随手记/个人账号密码笔记本.md",
     "未命名.canvas",
     "生活记",
     "工作笔记/归档/鼎捷-工作小记-2024",
