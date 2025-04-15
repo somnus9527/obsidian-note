@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:知识笔记/前端框架",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,9 +212,10 @@
   },
   "active": "730ca1c3a3a9200b",
   "lastOpenFiles": [
+    "知识笔记/电脑相关/MacOS查看本机IP.md",
+    "工作笔记/鼎捷/4.14-4.18工作小记.md",
     "工作笔记/鼎捷/4.7-4.11工作小记.md",
     "工作笔记/鼎捷/3.31-4.3工作小记.md",
-    "工作笔记/鼎捷/4.14-4.18工作小记.md",
     "知识笔记/经验/lowcode-engine升级记录.md",
     "工作笔记/鼎捷/operation各个场景可选表格.md",
     "知识笔记/经验/ToolJet调研记录.md",
@@ -223,7 +224,6 @@
     "工作笔记/鼎捷/3.3-3.7工作小记.md",
     "知识笔记/经验/Pageplug调研.md",
     "Assets/Obsidian-1.8.9.dmg",
-    "知识笔记/电脑相关/MacOS查看本机IP.md",
     "知识笔记/电脑相关/npm 启动报错：opensslError.md",
     "知识笔记/经验/Appsmith调研记录.md",
     "知识笔记/经验/agInnerLabel开发小记.md",
