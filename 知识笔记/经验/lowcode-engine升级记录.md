@@ -5,7 +5,8 @@ tags:
 ---
 >[!Warning] 目标
 > - [ ] 升级lowcode内部react版本到react18 **关键目标**
-> 	- [ ] 升级webpack到webpack5  **附属目标**
+> 	~~- [ ] 升级webpack到webpack5  **附属目标**~~
+> 	- [ ] webpack打包效果不好，改用rollup
 > 		- [ ] 移除build-script  **附属目标**
 > 	- [ ] 移除lerna  **附属目标**
 > 	- [ ] 减少子包数量  **附属目标**
@@ -95,6 +96,22 @@ tags:
 ##### 开始编写打包脚本
 
 	- 构建tsc输出申明文件脚本
+	- 构建自己的打包体系
+		- 将所以打包组装成Task，每一个Task就是一个子线程，交给TaskController控制
+			- 包括控制并发数量
+			- 先执行build再执行watch
+				- 虽然一般不会出现，但是可以支持
+			- 组装日志方法，统一处理子线程日志
+				- 否则很多watch任务都会执行清屏操作，影响日志输出
+	- Task任务模式构建完毕
+	- 添加运行参数的支持，后续会持续添加，暂时只支持基础参数
+	- 构建webpack配置生成方法
+	- 将webpack打包构造成任务交给Task系统
+		- 发现webpack打包不符合需求
+		- 三方包的输出可能还是rollup更加合适
+	- 取消webpack，改用rollup打包
+	- 将rollup打包构造成任务交给Task系统
+		- Types项目的dev模式的打包已经完成
 
 #### 记录
 
