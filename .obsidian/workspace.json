@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识笔记/经验/本地Docker部署鼎捷前端项目记录.md",
+                "file": "工作笔记/鼎捷/4.21-4.25工作小记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "本地Docker部署鼎捷前端项目记录"
+              "title": "4.21-4.25工作小记"
             }
           }
         ]
@@ -210,10 +210,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2f8e16b1702d25c",
+  "active": "c3510f4f46e775a6",
   "lastOpenFiles": [
-    "知识笔记/Docker/Node Dockerfile Basics.md",
     "知识笔记/经验/本地Docker部署鼎捷前端项目记录.md",
+    "知识笔记/Docker/Node Dockerfile Basics.md",
     "知识笔记/Docker/未命名.md",
     "知识笔记/Docker/zookeeper 本地集群搭建.md",
     "知识笔记/Docker/Docker相关命令.md",
