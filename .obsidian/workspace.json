@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作笔记/鼎捷/4.21-4.25工作小记.md",
+                "file": "工作笔记/鼎捷/4.27-4.30工作小记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4.21-4.25工作小记"
+              "title": "4.27-4.30工作小记"
             }
           }
         ]
@@ -212,6 +212,8 @@
   },
   "active": "c3510f4f46e775a6",
   "lastOpenFiles": [
+    "工作笔记/鼎捷/4.21-4.25工作小记.md",
+    "工作笔记/鼎捷/4.27-4.30工作小记.md",
     "知识笔记/经验/本地Docker部署鼎捷前端项目记录.md",
     "知识笔记/Docker/Node Dockerfile Basics.md",
     "知识笔记/Docker/未命名.md",
@@ -220,7 +222,6 @@
     "知识笔记/Docker/Node Docker配置记录.md",
     "工作笔记/鼎捷/submitAction转换逻辑.md",
     "知识笔记/电脑相关/macos创建本地证书.md",
-    "工作笔记/鼎捷/4.21-4.25工作小记.md",
     "知识笔记/经验/vscode私有插件仓库调研.md",
     "知识笔记/经验/vscode本地化进程记录.md",
     "工作笔记/鼎捷/代码管理方案记录.md",
@@ -237,7 +238,6 @@
     "待办事项/lowcode加载优化待办.md",
     "知识笔记/经验/package.json版本说明.md",
     "知识笔记/电脑相关/MacOS查看本机IP.md",
-    "工作笔记/鼎捷/operation各个场景可选表格.md",
     "Assets/Obsidian-1.8.9.dmg",
     "Assets/Pasted image 20250328162320.png",
     "Assets/Pasted image 20250328150010.png",
