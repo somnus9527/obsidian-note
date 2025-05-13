@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "发票",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,8 +212,11 @@
   },
   "active": "c3510f4f46e775a6",
   "lastOpenFiles": [
-    "知识笔记/电脑相关/oh-my-zsh更新之后启动报错.md",
+    "知识笔记/数据结构/链表.md",
+    "知识笔记/数据结构/栈.md",
     "工作笔记/鼎捷/5.12-5.16工作小记.md",
+    "知识笔记/经验/typescript enum.md",
+    "知识笔记/电脑相关/oh-my-zsh更新之后启动报错.md",
     "工作笔记/鼎捷/鼎捷发票信息记录.md",
     "工作笔记/鼎捷/5.6-5.9工作小记.md",
     "工作笔记/鼎捷/4.21-4.25工作小记.md",
@@ -235,9 +238,6 @@
     "待办事项/lowcode SubmitAction历史数据转换方法.md",
     "知识笔记/经验/lowcode-engine升级记录.md",
     "工作笔记/鼎捷/4.14-4.18工作小记.md",
-    "工作笔记/鼎捷/4.7-4.11工作小记.md",
-    "工作笔记/鼎捷/3.31-4.3工作小记.md",
-    "工作笔记/鼎捷/3.24-3.28工作小记.md",
     "Assets/Obsidian-1.8.9.dmg",
     "Assets/Pasted image 20250328162320.png",
     "Assets/Pasted image 20250328150010.png",
