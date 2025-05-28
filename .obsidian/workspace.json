@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作笔记/鼎捷/5.12-5.16工作小记.md",
+                "file": "工作笔记/鼎捷/5.26-5.27工作小记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5.12-5.16工作小记"
+              "title": "5.26-5.27工作小记"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "本机",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,13 +212,20 @@
   },
   "active": "c3510f4f46e775a6",
   "lastOpenFiles": [
+    "工作笔记/鼎捷/5.19-5.23工作小记.md",
+    "工作笔记/鼎捷/5.26-5.27工作小记.md",
+    "知识笔记/电脑相关/MacOS查看本机IP.md",
+    "随手记/github PAT.md",
+    "随手记/MasterGO Token.md",
+    "随手记/deepseek API Key.md",
+    "工作笔记/鼎捷/5.6-5.9工作小记.md",
+    "工作笔记/鼎捷/5.12-5.16工作小记.md",
+    "工作笔记/鼎捷/鼎捷前端项目链接别的地址.md",
     "知识笔记/数据结构/链表.md",
     "知识笔记/数据结构/栈.md",
-    "工作笔记/鼎捷/5.12-5.16工作小记.md",
     "知识笔记/经验/typescript enum.md",
     "知识笔记/电脑相关/oh-my-zsh更新之后启动报错.md",
     "工作笔记/鼎捷/鼎捷发票信息记录.md",
-    "工作笔记/鼎捷/5.6-5.9工作小记.md",
     "工作笔记/鼎捷/4.21-4.25工作小记.md",
     "工作笔记/鼎捷/4.27-4.30工作小记.md",
     "知识笔记/经验/本地Docker部署鼎捷前端项目记录.md",
@@ -231,13 +238,6 @@
     "知识笔记/电脑相关/macos创建本地证书.md",
     "知识笔记/经验/vscode私有插件仓库调研.md",
     "知识笔记/经验/vscode本地化进程记录.md",
-    "工作笔记/鼎捷/代码管理方案记录.md",
-    "工作笔记/归档/鼎捷-工作小记-2024/5.13-5.17工作小记.md",
-    "工作笔记/鼎捷/鼎捷前端项目链接别的地址.md",
-    "工作笔记/归档/鼎捷-工作小记-2024/12.2-12.6工作小记.md",
-    "待办事项/lowcode SubmitAction历史数据转换方法.md",
-    "知识笔记/经验/lowcode-engine升级记录.md",
-    "工作笔记/鼎捷/4.14-4.18工作小记.md",
     "Assets/Obsidian-1.8.9.dmg",
     "Assets/Pasted image 20250328162320.png",
     "Assets/Pasted image 20250328150010.png",
