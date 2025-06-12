@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "doc/知识笔记/经验/通义AI Coding尝试使用记录.md",
+                "file": "生活记/综合笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "通义AI Coding尝试使用记录"
+              "title": "综合笔记"
             }
           },
           {
@@ -236,8 +236,8 @@
   },
   "active": "c2f8e16b1702d25c",
   "lastOpenFiles": [
-    "Assets/Pasted image 20250529085733.png",
     "doc/知识笔记/经验/通义AI Coding尝试使用记录.md",
+    "Assets/Pasted image 20250529085733.png",
     "doc/工作笔记/鼎捷/6.9-6.13工作小记.md",
     "知识笔记/经验/通义灵码angular项目AI规则记录.md",
     "doc/知识笔记/经验/通义灵码angular项目AI规则记录.md",
@@ -281,7 +281,6 @@
     "Assets/Pasted image 20250603131729.png",
     "Assets/Pasted image 20250603130723.png",
     "Assets/Pasted image 20250603130634.png",
-    "Assets/Pasted image 20250603130603.png",
     "未命名.canvas"
   ]
 }
