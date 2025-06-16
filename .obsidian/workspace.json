@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活记/综合笔记.md",
+                "file": "doc/工作笔记/鼎捷/6.16-6.20工作小记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "综合笔记"
+              "title": "6.16-6.20工作小记"
             }
           },
           {
@@ -234,11 +234,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2f8e16b1702d25c",
+  "active": "c3510f4f46e775a6",
   "lastOpenFiles": [
+    "doc/工作笔记/鼎捷/6.9-6.13工作小记.md",
+    "doc/工作笔记/鼎捷/6.3-6.6工作小记.md",
+    "doc/工作笔记/鼎捷/5.26-5.27工作小记.md",
+    "doc/工作笔记/鼎捷/6.16-6.20工作小记.md",
+    "doc/工作笔记/鼎捷/5.19-5.23工作小记.md",
+    "doc/工作笔记/鼎捷/5.12-5.16工作小记.md",
+    "doc/工作笔记/鼎捷/5.6-5.9工作小记.md",
+    "doc/工作笔记/鼎捷/12.30-1.3工作小记.md",
+    "生活记/综合笔记.md",
     "doc/知识笔记/经验/通义AI Coding尝试使用记录.md",
     "Assets/Pasted image 20250529085733.png",
-    "doc/工作笔记/鼎捷/6.9-6.13工作小记.md",
     "知识笔记/经验/通义灵码angular项目AI规则记录.md",
     "doc/知识笔记/经验/通义灵码angular项目AI规则记录.md",
     "doc/知识笔记/前端框架/flutter 多环境APK共存实践记录.md",
@@ -255,13 +263,6 @@
     "doc/知识笔记/电脑相关/ssh-keygen.md",
     "doc/知识笔记/电脑相关/powershell设置环境变量.md",
     "doc/知识笔记/电脑相关/powershell设置永久代理(Windows).md",
-    "doc/知识笔记/电脑相关/powershell美化.md",
-    "doc/知识笔记/电脑相关/oh-my-zsh更新之后启动报错.md",
-    "doc/知识笔记/经验/通义灵码AI规则记录.md",
-    "doc/知识笔记/电脑相关/npm安装报错RequestError.md",
-    "doc/知识笔记/电脑相关/npm 设置config.md",
-    "doc/知识笔记/电脑相关/npm 启动报错：opensslError.md",
-    "doc/知识笔记/电脑相关/macos创建本地证书.md",
     "doc/知识笔记/前端框架",
     "doc/知识笔记/电脑相关",
     "doc/知识笔记/经验",
